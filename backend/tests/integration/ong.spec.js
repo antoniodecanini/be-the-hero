@@ -8,7 +8,7 @@ describe('ONG', () => {
     await connection.migrate.latest();
   });
 
-  afterAll(async () => {
+  afterEach(async () => {
     await connection.destroy();
   });
 
