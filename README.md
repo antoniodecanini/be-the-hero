@@ -3,7 +3,7 @@
 
 O projeto foi desenvolvido a fim de estudo, utilizando node.js para o backend, ReactJS para o frontend e ReactNative para o mobile.
 
-Este projeto consiste em um app para ajudar ongs a captar recursos para solucionar seus problemas. Uma ong se cadastra no sistema e a partir dai pode criar o casos em quem precisa de ajuda. Um herói disposto a ajudar, pode buscar através de seu app os casos disponíveis, escolher um e salvar o dia.
+Este projeto consiste em um app que ajuda ongs a captar recursos para solucionar seus problemas. Uma ong se cadastra no sistema e a partir dai pode criar os casos em quem precisa de ajuda. Um herói disposto a ajudar, pode buscar através de seu app os casos disponíveis, escolher um e salvar o dia.
 
 <img src="screenshots.png"/> 
 
